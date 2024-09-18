@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - dummy
+  - slippery
+  - FxTemporaire
+  - LowCollision
+  - Spawnpoint
+  - LevelKey
+  - Pipe
+  - PushBox
+  - Key
+  - Collectable
+  - Coin
+  - Effects
+  - effect
+  - loweffect
+  - PlatfrormMoving
+  - magnet
+  - Trampoline
+  - Slippery
+  - Fail
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ball
+  - Obstacles
+  - InteractiveObstacles
+  - TerrainStaticFloor
+  - TerrainDynamic
+  - TerrainStaticPipe
+  - TerrainNoVertical
+  - Decoration
+  - BallOnlyTrigger
+  - ScreenshotUI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Recording
+  - Temporary
+  - Loader
+  - TEST
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Layer 1
+    uniqueID: 1382316347
+    locked: 0
+  - name: Layer 2
+    uniqueID: 2411833021
+    locked: 0
+  - name: Layer 3
+    uniqueID: 2506183725
+    locked: 0
+  - name: Layer 4
+    uniqueID: 844328047
+    locked: 0
